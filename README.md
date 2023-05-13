@@ -5,10 +5,10 @@ The suryanshp1/calculator-python-grpc repository contains a Python application t
 
 run server code
 ```
-python calculator_server.py
+python server.py
 ```
 
 run client code
 ```
-python calculator_client.py
+python client.py
 ```
